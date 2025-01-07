@@ -70,3 +70,6 @@ build/
 # Lock files
 package-lock.json
 yarn.lock
+
+
+firebase-service-account.json
